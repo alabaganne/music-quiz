@@ -6,4 +6,4 @@ Browser music quiz developed as university coursework.
 
 - `audios/`
 
-Historical learning or early-career work, preserved privately for reference.
+Historical learning or early-career work, preserved for reference.
